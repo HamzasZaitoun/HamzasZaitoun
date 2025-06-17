@@ -15,6 +15,7 @@ When I'm not coding, you'll find me exploring the world of **music, cinema, and 
 ## 🔗 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/hamza-zaitoun-9ab8512b1/) <!-- Replace # with your LinkedIn URL -->
+- [Email](hamzasaadzaitoun@gmail.com)
 - [Personal Website](coming soon!) <!-- Replace # with your website URL -->
 
 ---
