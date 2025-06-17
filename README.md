@@ -1,4 +1,4 @@
-# Hi there, I'm Hamza 👋
+# Hi there, Its Hamza 👋
 
 I'm a passionate **Full Stack Developer** who loves turning ideas into scalable, elegant software solutions. With hands-on experience in **Laravel, PHP, React, Java, Spring**, and **API development**, I enjoy crafting both intuitive frontends and robust backends. 
 
